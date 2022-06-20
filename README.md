@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vidhi, i'm a student and a creator on Youtube!
+- 👋 Hi, I’m Vidhi, a student and a Youtube creator!
 - 👀 I’m interested in UI/UX Designing and Frontend development
 - 🌱 I’m currently learning React
 
